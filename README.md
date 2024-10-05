@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Munir</h1>
-<h3 align="center">Full stack JavaScript/Typescript Developer with over 5 years of extensive experience in software development lifecycle (SDLC) in developing and designing user experiences of web applications. Experience in Software lifecycle phases like Requirement Analysis, Implementation and estimating the time-lines for the project.</h3>
+<p align="center">Full stack JavaScript/Typescript Developer with over 5 years of extensive experience in software development lifecycle (SDLC) in developing and designing user experiences of web applications. Experience in Software lifecycle phases like Requirement Analysis, Implementation and estimating the time-lines for the project.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranmunir312&label=Profile%20views&color=0e75b6&style=flat" alt="imranmunir312" /> </p>
 

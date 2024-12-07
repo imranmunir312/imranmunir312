@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NLP, ML/DL and Gen AI.**
 
-- 👨‍💻 All of my projects are available at [imranmunir.vercel.app](imranmunir.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="https://imranmunir.vercel.app">(imranmunir.vercel.app)</a>
 
 - 💬 Ask me about **React, Node.js, Nextjs, Nestjs, AWS**
 
